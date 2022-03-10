@@ -1,6 +1,6 @@
 # Lempikahvit - backend
 
-Kyseessä on backend web-sovellukselle, jossa voi tallentaa tiedot lempikahvilaaduistaan.
+Kyseessä on backend (Node.js/TypeScript) web-sovellukselle, jossa voi tallentaa tiedot lempikahvilaaduistaan.
 
 Käyttää oletuksena porttia 3001.
 
