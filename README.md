@@ -19,8 +19,19 @@ npm install
 ```bash 
 npm start
 ```
-GET http://localhost:3001/coffees/
+#### Get all coffees
 
-POST http://localhost:3001/coffees/
+```http
+GET /coffees
+```
+#### Add a new coffee
 
-DELETE http://localhost:3001/coffees/:id
+```http
+POST /coffees
+```
+#### Delete coffee
+
+```http
+DELETE /coffees/{id}
+```
+
