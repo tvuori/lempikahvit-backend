@@ -8,6 +8,8 @@ Tarjoaa endpointin yksittäisen uuden kahvitiedon tallennukseen, kaikkien tallen
 
 Kahveista tallennetaan yksilöllinen id, nimi, pakkauksen paino, pakkauksen hinta sekä paahtoaste välillä 1-5. Tiedot tallennetaan json-muotoiseen tekstitiedostoon src/data-hakemistossa.
 
+Frontend [täällä](https://github.com/tvuori/lempikahvit-frontend).
+
 ## Installation
 
 ```bash
